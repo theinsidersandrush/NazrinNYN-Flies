@@ -24,4 +24,4 @@ How to contribute:
 
 And now, enjoy this beautiful screenshot of 100 flies (`Flies -c 100`) swirling happily around the screen, minding their own business.
 
-![Screen full of flying Cookie's Nazrin](/Screenshot 2022-09-25 200646.jpg?raw=true "Screen full of flying Cookie's Nazrin")
+Screenshot 2022-09-25 200646.jpg

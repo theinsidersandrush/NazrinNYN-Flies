@@ -23,5 +23,5 @@ How to contribute:
   - __Also, this repository is from FlyTechVideos' "Flies" repository and has been forked here. [Here is the original one.](https://github.com/FlyTechVideos/Flies)__
 
 And now, enjoy this beautiful screenshot of 100 flies (`Flies -c 100`) swirling happily around the screen, minding their own business.
-![Screenshot 2022-09-25 200646](/Screenshot 2022-09-25 200646.jpg?raw=true)
+![Flying thing](/Screenshot.jpg?raw=true)
 

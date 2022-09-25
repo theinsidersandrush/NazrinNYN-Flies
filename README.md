@@ -10,7 +10,7 @@ nyn.exe options:
 -h      --help  Show this message and exit
 ```
 
-To close it, simply press Alt+F4. Alternatively, you can also just kill the `nyn.exe` process. But do you really wanna kill those NYN姐贵?!?
+To close it, simply press Alt+F4. Alternatively, you can also just kill the `Flies.exe` (or whatever your file name you rename it) process. But do you really wanna kill those flying things?!?
 
 Image of [NYN姐贵](https://static.wikia.nocookie.net/cookie/images/a/ae/NYN%E5%A7%89%E8%B2%B4%E7%AB%8B%E3%81%A1%E7%B5%B5_%E9%80%9A%E5%B8%B8.png/revision/latest?cb=20180603063811&path-prefix=zh) from [Cookie☆'s Fandom page](https://cookie.fandom.com/zh). It is licensed under [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/). [The wiki itself (In Simplified Chinese (Malaysia).](https://cookie.fandom.com/zh/wiki/NYN%E5%A7%90%E8%B4%B5?variant=zh-my)
 
@@ -24,4 +24,4 @@ How to contribute:
 
 And now, enjoy this beautiful screenshot of 100 flies (`Flies -c 100`) swirling happily around the screen, minding their own business.
 
-![Screen full of flies](/screenshot.png?raw=true "Screen full of flies")
+![Screen full of flies](/Screenshot 2022-09-25 200646.jpg?raw=true "Screen full of flying Cookie's Nazrin")
